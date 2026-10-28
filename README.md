@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-wallabag is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://wallabag.org/
+Wallabag is an open-source, self‑hostable read‑it‑later application that lets users save web articles to read later across devices. It offers features like import from Pocket, extensions, mobile apps, and a web interface, emphasizing privacy with no ads or tracking. The project is community‑driven, providing documentation, API access, and regular releases.
+
+**Areas:** Open Source · Read-it-later · Self-hosted · Privacy · Community
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://wallabag.org/)
+- [Documentation](https://doc.wallabag.org/)
+- [API reference](https://doc.wallabag.org/developer/)
+- [Blog](https://wallabag.org/news/)
+- [GitHub](https://github.com/wallabag)
+- [Status](https://status.wallabag.org/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/wallabag/](https://apis.io/providers/wallabag/).
